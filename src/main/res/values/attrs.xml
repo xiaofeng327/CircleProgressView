@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressView">
+        <attr name="cpbackground" format="color"/>
+        <attr name="cpcirclecolor" format="color"/>
+        <attr name="cpringsize" format="dimension"/>
+        <attr name="cptextsize" format="dimension"/>
+        <attr name="cptextcolor" format="color"/>
+    </declare-styleable>
+</resources>
